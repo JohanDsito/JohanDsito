@@ -29,7 +29,7 @@
 nombre     : Johan David Delgado Delgado
 rol        : Backend Developer
 universidad: Universidad Cooperativa de Colombia
-semestre   : 7.º semestre
+semestre   : 8.º semestre
 ubicación  : Pasto, Nariño 🇨🇴
 enfoque    : Arquitectura de software & microservicios
 buscando   : Prácticas profesionales 
